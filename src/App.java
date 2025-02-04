@@ -9,9 +9,10 @@ public class App {
        JFrame frame = new JFrame("Flappy Bird");
        //frame.setVisible(true);
        frame.setSize(boardwidth, boardheight);
+       frame.setResizable(false);
        frame.setLocationRelativeTo(null);
        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+      
        FlappyBird flappyBird = new FlappyBird();
        frame.add(flappyBird);
        frame.pack();
