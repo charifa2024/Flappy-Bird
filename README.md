@@ -14,7 +14,7 @@ Guide the bird through obstacles and try to achieve the highest score! The game 
 
 ## 🔧 Installation  
 1. Clone the repository:  
-   git clone https://github.com/charifa2024/flappy-bird-game.git
+   git clone https://github.com/charifa2024/Flappy-Bird.git
 2. Open the project in a Java-compatible IDE.  
 3. Run the game.  
 
